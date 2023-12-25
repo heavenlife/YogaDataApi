@@ -1,1 +1,21 @@
+{
+  "categories": [
+    {
+      "name": "Mantra",
+      "image": "assets/images/mantra.png"
+    },
+    {
+      "name": "Happiness",
+      "image": "assets/images/happiness.png"
+    },
+    {
+      "name": "Relaxation",
+      "image": "assets/images/relaxation.png"
+    },
+    {
+      "name": "Focus",
+      "image": "assets/images/focus.png"
+    }
+  ]
+}
 
